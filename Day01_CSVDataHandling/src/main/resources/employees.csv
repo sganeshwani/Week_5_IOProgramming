@@ -1,6 +1,7 @@
-"ID","Name","Department","Salary"
-"104","Alice Williams","Finance","62000"
-"105","Bob Johnson","Sales","58000"
-"101","Sahil","IT","64000"
-"103","Ayush","HR","45000"
-"102","Riyansh","IT","60000"
+ID,Name,Department,Salary
+104,Alice Williams,Finance,62000
+105,Bob Johnson,Sales,58000
+101,Sahil,IT,64000
+103,Ayush,HR,45000
+102,Riyansh,IT,60000
+101,Sahil,IT,64000
