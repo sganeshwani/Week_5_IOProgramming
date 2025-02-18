@@ -8,7 +8,7 @@ public class WriteCSV {
         // Create a CSVWriter object to write data to the CSV file
         try (CSVWriter writer = new CSVWriter(new FileWriter("C:\\Users\\HP\\Desktop\\Capgemini Training\\Week5_IOProgramming\\Day01_CSVDataHandling\\src\\main\\resources\\employees.csv"))) {
             String[] header = {"ID", "Name", "Department", "Salary"}; // header
-            String[] emp1 = {"104", "Alice Williams", "Finance", "62000"};
+            String[] emp1 = {"104", "Alice Williams", "Finance", "60000"};
             String[] emp2 = {"105", "Bob Johnson", "Sales", "58000"};
             String[] emp3 = {"101", "Sahil", "IT", "62000"};
             String[] emp4 = {"103", "Ayush", "HR", "45000"};
