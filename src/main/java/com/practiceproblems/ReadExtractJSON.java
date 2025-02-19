@@ -15,7 +15,7 @@ public class ReadExtractJSON {
         // StringBuilder to hold the content of the JSON file
         StringBuilder jsonContent = new StringBuilder();
 
-        // Reading the JSON file
+        // Reading the JSON file.
         try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
             String line;
             while ((line = reader.readLine()) != null) {
